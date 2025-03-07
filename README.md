@@ -3,8 +3,8 @@
   <h3>Sou um desenvolvedor backend e um afinco apaixonado em jogos</h3>
 
   <p>
-    <a href="https://github.com/guigoiaba">
-      <img src="https://img.shields.io/github/followers/GuiGoiaba?label=Follow&style=social" alt="GitHub Followers">
+    <a href="https://github.com/pytuna">
+      <img src="https://img.shields.io/github/followers/Pytuna?label=Follow&style=social" alt="GitHub Followers">
     </a>
     <a href="mailto:guilhrmriber@gmail.com">
       <img src="https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail" alt="Email">
@@ -22,7 +22,7 @@
 
 ## 🤖 Linguagens e Tecnologias
 
-### 💻 Linguagens de programação 
+#### 💻 Linguagens de programação 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="40" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="40" alt="cpp logo" />
@@ -32,20 +32,20 @@
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" height="40" alt="javascript logo" />
 </div>
 
-### 🌐 Web  
+#### 🌐 Web  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/HTML.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CSS.svg" height="40" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NodeJS-Light.svg" height="40" alt="nodejs logo" />
 </div>
 
-### 📊 Banco de dados  
+#### 📊 Banco de dados  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PostgreSQL-Light.svg" height="40" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Light.svg" height="40" alt="mysql logo" />
 </div>
 
-### 🛠️ Outras tecnologias  
+#### 🛠️ Outras tecnologias  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" height="40" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github-Dark.svg" height="40" alt="github logo" />
@@ -59,6 +59,6 @@
   <img 
     align="center" 
     alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=GuiGoiaba&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="225" 
+    src="https://github-readme-stats.vercel.app/api?username=Pytuna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
