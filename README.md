@@ -26,7 +26,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="40" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="40" alt="cpp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C#.svg" height="40" alt="rust logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Light.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Light.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" height="40" alt="javascript logo" />
