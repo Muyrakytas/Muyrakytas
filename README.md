@@ -24,33 +24,31 @@
 
 #### 💻 Linguagens de programação 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="40" alt="cpp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Light.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Light.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="50" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="50" alt="cpp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Light.svg" height="50" alt="java logo" />
 </div>
 
 #### 🌐 Web  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/HTML.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CSS.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NodeJS-Light.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/HTML.svg" height="50" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CSS.svg" height="50" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" height="50" alt="javascript logo" />
 </div>
 
 #### 📊 Banco de dados  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PostgreSQL-Light.svg" height="40" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Light.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" height="50" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Light.svg" height="50" alt="mysql logo" />
 </div>
 
 #### 🛠️ Outras tecnologias  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" height="40" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github-Dark.svg" height="40" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/VSCode-Light.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Light.svg" height="40" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Windows-Light.svg" height="40" alt="windows logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" height="50" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github-Dark.svg" height="50" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/VSCode-Dark.svg" height="50" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Dark.svg" height="50" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Windows-Dark.svg" height="50" alt="windows logo" />
 </div>
 
 ## 📈 Estatísticas
