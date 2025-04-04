@@ -46,16 +46,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" height="50" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github-Dark.svg" height="50" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/VSCode-Dark.svg" height="50" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Dark.svg" height="50" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Windows-Dark.svg" height="50" alt="windows logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Light.svg" height="50" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Spring-Light.svg" height="50" alt="Spring logo"/>
 </div>
-
-## 📈 Estatísticas
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="225" 
-    src="https://github-readme-stats.vercel.app/api?username=Pytuna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
