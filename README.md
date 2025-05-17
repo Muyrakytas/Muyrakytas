@@ -24,9 +24,11 @@
 
 #### 💻 Linguagens de programação 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="50" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="50" alt="cpp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Light.svg" height="50" alt="python logo" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="50" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="50" alt="cpp logo" /> -->
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Light.svg" height="50" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PHP-Light.svg" height="50" alt="php logo" />
 </div>
 
 #### 🌐 Web  
