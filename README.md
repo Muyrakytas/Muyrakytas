@@ -24,11 +24,11 @@
 
 #### 💻 Linguagens de programação 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Light.svg" height="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Dark.svg" height="50" alt="python logo" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="50" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="50" alt="cpp logo" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Light.svg" height="50" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PHP-Light.svg" height="50" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Dark.svg" height="50" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PHP-Dark.svg" height="50" alt="php logo" />
 </div>
 
 #### 🌐 Web  
@@ -41,7 +41,7 @@
 #### 📊 Banco de dados  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" height="50" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Light.svg" height="50" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Dark.svg" height="50" alt="mysql logo" />
 </div>
 
 #### 🛠️ Outras tecnologias  
@@ -49,5 +49,5 @@
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" height="50" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github-Dark.svg" height="50" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Light.svg" height="50" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Spring-Light.svg" height="50" alt="Spring logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Spring-Dark.svg" height="50" alt="Spring logo"/>
 </div>
