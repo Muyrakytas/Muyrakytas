@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Dark.svg" height="50" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="50" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="50" alt="cpp logo" />
-  <<!--<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Dark.svg" height="50" alt="java logo" />
+  <!--<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Dark.svg" height="50" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PHP-Dark.svg" height="50" alt="php logo" /> -->
 </div>
 <!--
